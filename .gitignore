@@ -1,5 +1,13 @@
 # execs
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
 build/
 
-#IDE configs
+# IDEs
 .idea/
+*.iml
+
+# Outros
+.metadata
